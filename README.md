@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Kayode, a computer engineer with a passion for learning and a deep interest in computer architecture and ASIC design/verification!
 
 <!--
 **kmoronfoye/kmoronfoye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
